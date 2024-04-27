@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sarah</h1>
+<h1 align="center">Hi, I'm Sarah!</h1>
 <h3 align="center">I'm a junior data analyst living in Tokyo, Japan</h3>
 
 - 🌱 I’m currently learning **Tableau** and **HTML**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/sarahstollunderwood](https://troopl.com/sarahstollunderwood)
 
-- 📫 How to reach me **sarah.stollunderwood@gmail.com**
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/sarah-stoll-underwood/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
