@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/sarahstollunderwood](https://troopl.com/sarahstollunderwood)
 
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/sarah-stoll-underwood/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarah-stoll-underwood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah-stoll-underwood" height="30" width="40" /></a>
