@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarah!</h1>
 <h3 align="center">I'm a junior data analyst living in Tokyo, Japan</h3>
 
-- 🌱 I’m currently learning **Tableau** and **HTML**
+- 🌱 I’m currently learning **Tableau** and **HTML** in addition to honing my data analysis skills
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/sarahstollunderwood](https://troopl.com/sarahstollunderwood)
 
